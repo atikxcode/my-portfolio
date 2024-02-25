@@ -181,7 +181,7 @@
   }
 
   .home-image{
-    width:200px;
+    width:150px;
     height:200px;
     background:#031540;
     border-radius:50%;
@@ -195,7 +195,7 @@
   }
 
   .home-content{
-    max-width:225px;
+    max-width:210px;
   }
 
   .home-content h1{
